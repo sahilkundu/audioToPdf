@@ -1,0 +1,6 @@
+yt-dlp
+SpeechRecognition
+pydub
+fpdf
+concurrent-log-handler
+multiprocessing-logging
